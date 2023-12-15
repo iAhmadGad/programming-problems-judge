@@ -1,6 +1,6 @@
-<h2 align = "center">Competitive Programming Workspace</h2>
+<h2 align = "center">Hakam</h2>
 
-Competitive programming workspace template, that checks your code before submitting it.
+Programming problems judge., that checks your code before submitting it.
 
 ## 💡 How to use
 
