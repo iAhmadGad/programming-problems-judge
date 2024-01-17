@@ -1,5 +1,3 @@
-<h2 align = "center">Hakam</h2>
-
 Programming problems judge, that checks your code before submitting it.
 
 ## 💡 How to use
